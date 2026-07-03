@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use these materials, cite the source Verasight report."
+title: "ASA Omnibus Survey"
+authors:
+  - family-names: "Verasight"
+date-released: "2025-08-25"
+url: "https://reports.verasight.io/reports/asa-2025"

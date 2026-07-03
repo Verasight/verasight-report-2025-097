@@ -1,0 +1,246 @@
+question_id,option_id,option_label,is_missing
+2025-097_a_1,1,Loyalty,false
+2025-097_a_1,2,Equality,false
+2025-097_a_10,1,Strongly Agree,false
+2025-097_a_10,2,Agree,false
+2025-097_a_10,3,Neither Agree nor Disagree,false
+2025-097_a_10,4,Disagree,false
+2025-097_a_10,5,Strongly Disagree,false
+2025-097_a_11,1,Extremely liberal,false
+2025-097_a_11,2,Liberal,false
+2025-097_a_11,3,Slightly liberal,false
+2025-097_a_11,4,Moderate,false
+2025-097_a_11,5,Slightly conservative,false
+2025-097_a_11,6,Conservative,false
+2025-097_a_11,7,Extremely conservative,false
+2025-097_a_12,1,Lower class,false
+2025-097_a_12,2,Working class,false
+2025-097_a_12,3,Middle class,false
+2025-097_a_12,4,Upper class,false
+2025-097_a_12,5,Don't know,false
+2025-097_a_14,1,Very concerned,false
+2025-097_a_14,2,Somewhat concerned,false
+2025-097_a_14,3,Not concerned,false
+2025-097_a_14,4,I have not noticed any differences,false
+2025-097_a_15,1,I have not experienced natural disasters.,false
+2025-097_a_15,2,I have experienced stark changes.,false
+2025-097_a_15,3,I have experienced some changes.,false
+2025-097_a_15,4,I have experienced no changes.,false
+2025-097_a_15,5,Unsure,false
+2025-097_a_16,0,0: No pain,false
+2025-097_a_16,1,1,false
+2025-097_a_16,2,2,false
+2025-097_a_16,3,3,false
+2025-097_a_16,4,4,false
+2025-097_a_16,5,5,false
+2025-097_a_16,6,6,false
+2025-097_a_16,7,7,false
+2025-097_a_16,8,8,false
+2025-097_a_16,9,9,false
+2025-097_a_16,10,10: Worst pain imaginable,false
+2025-097_a_17,0,0: No pain,false
+2025-097_a_17,1,1,false
+2025-097_a_17,2,2,false
+2025-097_a_17,3,3,false
+2025-097_a_17,4,4,false
+2025-097_a_17,5,5,false
+2025-097_a_17,6,6,false
+2025-097_a_17,7,7,false
+2025-097_a_17,8,8,false
+2025-097_a_17,9,9,false
+2025-097_a_17,10,10: Worst pain imaginable,false
+2025-097_a_18,1,Stay in their home with help from you,false
+2025-097_a_18,2,Stay in their home with professional help,false
+2025-097_a_18,3,Live with you,false
+2025-097_a_18,4,Live in an assisted living community,false
+2025-097_a_18,5,Live in a nursing home,false
+2025-097_a_19,1,I didn't use cannabis in the past month,false
+2025-097_a_19,2,Strongly agree,false
+2025-097_a_19,3,Agree,false
+2025-097_a_19,4,Neither agree or disagree,false
+2025-097_a_19,5,Disagree,false
+2025-097_a_19,6,Strongly disagree,false
+2025-097_a_19,7,Refuse to answer,false
+2025-097_a_2,1,Very well,false
+2025-097_a_2,2,Somewhat well,false
+2025-097_a_2,3,Neither well nor poorly,false
+2025-097_a_2,4,Somewhat poorly,false
+2025-097_a_2,5,Very poorly,false
+2025-097_a_20,1,Much higher than average,false
+2025-097_a_20,2,Higher than average,false
+2025-097_a_20,3,About average,false
+2025-097_a_20,4,Lower than average,false
+2025-097_a_20,5,Much lower than average,false
+2025-097_a_20,6,Don't know,false
+2025-097_a_21,1,Extremely important,false
+2025-097_a_21,2,Very important,false
+2025-097_a_21,3,Somewhat important,false
+2025-097_a_21,4,Slightly important,false
+2025-097_a_21,5,Not at all important,false
+2025-097_a_22,1,$0-25,false
+2025-097_a_22,2,$26-100,false
+2025-097_a_22,3,$101-249,false
+2025-097_a_22,4,$250+,false
+2025-097_a_22,5,I have never made a charitable donation,false
+2025-097_a_23,1,Very important,false
+2025-097_a_23,2,Somewhat important,false
+2025-097_a_23,3,Neutral,false
+2025-097_a_23,4,Somewhat unimportant,false
+2025-097_a_23,5,Very unimportant,false
+2025-097_a_24,1,Democrats,false
+2025-097_a_24,2,Republicans,false
+2025-097_a_25,1,0,false
+2025-097_a_25,2,1-2,false
+2025-097_a_25,3,3-4,false
+2025-097_a_25,4,5-6,false
+2025-097_a_25,5,7-8,false
+2025-097_a_25,6,9-10,false
+2025-097_a_25,7,11+,false
+2025-097_a_26,1,Boredom,false
+2025-097_a_26,2,Excitement,false
+2025-097_a_26,3,Frustration,false
+2025-097_a_26,4,Confusion,false
+2025-097_a_26,5,Joy,false
+2025-097_a_26,6,I don't feel anything,false
+2025-097_a_27,1,Work,false
+2025-097_a_27,2,A gig,false
+2025-097_a_27,3,Extra money,false
+2025-097_a_27,4,A hobby,false
+2025-097_a_27,5,Something I do to pass the time,false
+2025-097_a_27,6,Helping others,false
+2025-097_a_28,1,Yes - it helps me with necessities,false
+2025-097_a_28,2,Yes - it allows me to treat myself and others,false
+2025-097_a_28,3,Yes - it allows me to save money for a rainy day,false
+2025-097_a_28,4,No - the money is too little to make a difference,false
+2025-097_a_29,1,Onions,false
+2025-097_a_29,2,Tomatoes,false
+2025-097_a_29,3,Eggplants,false
+2025-097_a_29,4,Kale,false
+2025-097_a_29,5,Spinach,false
+2025-097_a_29,6,Carrots,false
+2025-097_a_29,7,Potatoes,false
+2025-097_a_3,1,Below high school,false
+2025-097_a_3,2,High School,false
+2025-097_a_3,3,Some College,false
+2025-097_a_3,4,Associate's degree,false
+2025-097_a_3,5,Bachelor's degree,false
+2025-097_a_3,6,Master's degree,false
+2025-097_a_3,7,Doctoral or professional degree,false
+2025-097_a_3,8,I am not currently employed,false
+2025-097_a_30,1,Mustard,false
+2025-097_a_30,2,Relish,false
+2025-097_a_30,3,Ketchup,false
+2025-097_a_30,4,Mayo,false
+2025-097_a_30,5,Onions,false
+2025-097_a_30,6,Peppers,false
+2025-097_a_30,7,None of the above,false
+2025-097_a_4,1,I don't currently have a job,false
+2025-097_a_4,2,None,false
+2025-097_a_4,3,A Little,false
+2025-097_a_4,4,Some,false
+2025-097_a_4,5,A lot,false
+2025-097_a_4,6,Everything,false
+2025-097_a_5_1,-4,Extremely unfair underpayment,false
+2025-097_a_5_1,-3,Very unfair underpayment,false
+2025-097_a_5_1,-2,Somewhat unfair underpayment,false
+2025-097_a_5_1,-1,Slightly unfair underpayment,false
+2025-097_a_5_1,0,Fair pay,false
+2025-097_a_5_1,1,Slightly unfair overpayment,false
+2025-097_a_5_1,2,Somewhat unfair overpayment,false
+2025-097_a_5_1,3,Very unfair overpayment,false
+2025-097_a_5_1,4,Extremely unfair overpayment,false
+2025-097_a_5_1,8,I am not employed,false
+2025-097_a_5_2,-4,Extremely unfair underpayment,false
+2025-097_a_5_2,-3,Very unfair underpayment,false
+2025-097_a_5_2,-2,Somewhat unfair underpayment,false
+2025-097_a_5_2,-1,Slightly unfair underpayment,false
+2025-097_a_5_2,0,Fair pay,false
+2025-097_a_5_2,1,Slightly unfair overpayment,false
+2025-097_a_5_2,2,Somewhat unfair overpayment,false
+2025-097_a_5_2,3,Very unfair overpayment,false
+2025-097_a_5_2,4,Extremely unfair overpayment,false
+2025-097_a_5_2,8,I am not employed,false
+2025-097_a_5_3,-4,Extremely unfair underpayment,false
+2025-097_a_5_3,-3,Very unfair underpayment,false
+2025-097_a_5_3,-2,Somewhat unfair underpayment,false
+2025-097_a_5_3,-1,Slightly unfair underpayment,false
+2025-097_a_5_3,0,Fair pay,false
+2025-097_a_5_3,1,Slightly unfair overpayment,false
+2025-097_a_5_3,2,Somewhat unfair overpayment,false
+2025-097_a_5_3,3,Very unfair overpayment,false
+2025-097_a_5_3,4,Extremely unfair overpayment,false
+2025-097_a_5_3,8,I am not employed,false
+2025-097_a_5_4,-4,Extremely unfair underpayment,false
+2025-097_a_5_4,-3,Very unfair underpayment,false
+2025-097_a_5_4,-2,Somewhat unfair underpayment,false
+2025-097_a_5_4,-1,Slightly unfair underpayment,false
+2025-097_a_5_4,0,Fair pay,false
+2025-097_a_5_4,1,Slightly unfair overpayment,false
+2025-097_a_5_4,2,Somewhat unfair overpayment,false
+2025-097_a_5_4,3,Very unfair overpayment,false
+2025-097_a_5_4,4,Extremely unfair overpayment,false
+2025-097_a_5_4,8,I am not employed,false
+2025-097_a_5_5,-4,Extremely unfair underpayment,false
+2025-097_a_5_5,-3,Very unfair underpayment,false
+2025-097_a_5_5,-2,Somewhat unfair underpayment,false
+2025-097_a_5_5,-1,Slightly unfair underpayment,false
+2025-097_a_5_5,0,Fair pay,false
+2025-097_a_5_5,1,Slightly unfair overpayment,false
+2025-097_a_5_5,2,Somewhat unfair overpayment,false
+2025-097_a_5_5,3,Very unfair overpayment,false
+2025-097_a_5_5,4,Extremely unfair overpayment,false
+2025-097_a_5_5,8,I am not employed,false
+2025-097_a_5_6,-4,Extremely unfair underpayment,false
+2025-097_a_5_6,-3,Very unfair underpayment,false
+2025-097_a_5_6,-2,Somewhat unfair underpayment,false
+2025-097_a_5_6,-1,Slightly unfair underpayment,false
+2025-097_a_5_6,0,Fair pay,false
+2025-097_a_5_6,1,Slightly unfair overpayment,false
+2025-097_a_5_6,2,Somewhat unfair overpayment,false
+2025-097_a_5_6,3,Very unfair overpayment,false
+2025-097_a_5_6,4,Extremely unfair overpayment,false
+2025-097_a_5_6,8,I am not employed,false
+2025-097_a_5_7,-4,Extremely unfair underpayment,false
+2025-097_a_5_7,-3,Very unfair underpayment,false
+2025-097_a_5_7,-2,Somewhat unfair underpayment,false
+2025-097_a_5_7,-1,Slightly unfair underpayment,false
+2025-097_a_5_7,0,Fair pay,false
+2025-097_a_5_7,1,Slightly unfair overpayment,false
+2025-097_a_5_7,2,Somewhat unfair overpayment,false
+2025-097_a_5_7,3,Very unfair overpayment,false
+2025-097_a_5_7,4,Extremely unfair overpayment,false
+2025-097_a_5_7,8,I am not employed,false
+2025-097_a_6,1,Green space,false
+2025-097_a_6,2,Affordability,false
+2025-097_a_6,3,Walkability,false
+2025-097_a_6,4,Crime and Safety,false
+2025-097_a_6,5,Entertainment,false
+2025-097_a_6,6,Architecture,false
+2025-097_a_6,7,Local Neighborhood Group Presence,false
+2025-097_a_6,8,Other,false
+2025-097_a_7,1,Interest rates,false
+2025-097_a_7,2,Approval process speed,false
+2025-097_a_7,3,Availability of online or mobile application options,false
+2025-097_a_7,4,Lender's reputation for fairness in dealing with applicants of different races or ethnicities,false
+2025-097_a_7,5,Lender's reputation for supporting sustainable or climate-conscious housing practices,false
+2025-097_a_7,6,"Financial incentives or discounts (e.g. lower fees, down payment assistance)",false
+2025-097_a_7,7,None of the above,false
+2025-097_a_8,1,1: I absolutely trust these data,false
+2025-097_a_8,2,2,false
+2025-097_a_8,3,3,false
+2025-097_a_8,4,4,false
+2025-097_a_8,5,5,false
+2025-097_a_8,6,6,false
+2025-097_a_8,7,7: I absolutely do not trust these data,false
+2025-097_a_9,1,1: Not at all similar,false
+2025-097_a_9,2,2,false
+2025-097_a_9,3,3,false
+2025-097_a_9,4,4,false
+2025-097_a_9,5,5,false
+2025-097_a_9,6,6,false
+2025-097_a_9,7,7: Completely similar,false
+2026-044_q3_17,1,Extremely worried,false
+2026-044_q3_17,2,Somewhat worried,false
+2026-044_q3_17,3,Neutral,false
+2026-044_q3_17,4,Not very worried,false
+2026-044_q3_17,5,Not worried at all,false
